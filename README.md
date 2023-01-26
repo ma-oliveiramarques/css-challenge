@@ -26,5 +26,11 @@ Projects from Rocketseat challenge using CSS.
       <td>18/01/23</td>
       <td><a href="challenge#02">🔗</a></td>
     </tr>
+    <tr>
+      <td>#03</td>
+      <td>Buttons and Cursors</td>
+      <td>25/01/23</td>
+      <td><a href="challenge#03">🔗</a></td>
+    </tr>
   </tbody>
 </table>
